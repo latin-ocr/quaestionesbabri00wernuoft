@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesbabri00wernuoft_0007.png"; bbox 0 0 2091 3423; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 478 1720 623">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 478 1720 623">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 478 1720 623; baseline -0.008 -28"><span class='ocrx_word' id='word_1_1' title='bbox 190 483 943 623; x_wconf 68' lang='lat' dir='ltr'><strong>QUAESTIONES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1005 478 1720 590; x_wconf 83' lang='lat' dir='ltr'><strong>BABRIANAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 851 1063 1066 1100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 851 1063 1066 1100">
+     <span class='ocr_line' id='line_1_2' title="bbox 851 1063 1066 1100; baseline -0.009 0"><span class='ocrx_word' id='word_1_3' title='bbox 851 1063 1066 1100; x_wconf 86' lang='lat' dir='ltr'>SCRIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 599 1352 1322 1421">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 599 1352 1322 1421">
+     <span class='ocr_line' id='line_1_3' title="bbox 599 1352 1322 1421; baseline -0.01 0"><span class='ocrx_word' id='word_1_4' title='bbox 599 1358 640 1421; x_wconf 87' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 643 1356 897 1421; x_wconf 82' lang='lat' dir='ltr'>ULIUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 943 1352 1322 1419; x_wconf 79' lang='lat' dir='ltr'>WERNER.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 756 1921 1166 2391">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 756 1921 1166 2391">
+     <span class='ocr_line' id='line_1_4' title="bbox 756 1921 1166 2391; baseline 0 1032"><span class='ocrx_word' id='word_1_7' title='bbox 756 1921 1166 2391; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 416 2672 1496 2835">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 416 2672 1496 2835">
+     <span class='ocr_line' id='line_1_5' title="bbox 737 2672 1171 2730; baseline -0.014 0"><span class='ocrx_word' id='word_1_8' title='bbox 737 2672 994 2730; x_wconf 77' lang='lat' dir='ltr'><strong>BEROUN!</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1036 2672 1171 2725; x_wconf 87' lang='grc'>1892.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 416 2785 1496 2835; baseline -0.012 1"><span class='ocrx_word' id='word_1_10' title='bbox 416 2794 716 2835; x_wconf 80' lang='lat' dir='ltr'>SUMPTIBUS</span> <span class='ocrx_word' id='word_1_11' title='bbox 751 2793 786 2831; x_wconf 84' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 819 2789 1089 2829; x_wconf 74' lang='lat' dir='ltr'><strong>CALVARH</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1118 2788 1187 2826; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1216 2785 1496 2825; x_wconf 78' lang='lat' dir='ltr'><strong>SOOEORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
